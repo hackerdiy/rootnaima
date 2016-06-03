@@ -16,7 +16,7 @@ sudo apt-get install git
 ```
 Luego clonamos el repositorio:
 ```sh
-git clone https://githib.com/mijailr/rootnaima.git
+git clone https://githib.com/hackerdiy/rootnaima.git
 ```
 
 Accedemos a la carpeta clonada:
